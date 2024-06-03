@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name":"Galaxy Z Flip4",
+    "image":"https://images.samsung.com/in/smartphones/galaxy-z-flip4/images/galaxy-z-flip4_highlights_kv.jpg",
+    "description":"Single SIM (Nano-SIM) or Hybrid Dual SIM (Nano-SIM, dual stand-by) IP67 dust/water resistant (up to 1m for 30 min)",
+    "price":"1200" 
+  },
+  {
+    "id": 2,
+    "name":"oppo",
+     "image":"https://i.gadgets360cdn.com/large/oppo-main_1678701804365.png",
+    "description":"The OPPO Find N2 Flip is not just another flip phone. It offers a unique and practical smartphone experience that is worth trying out. With 8GB of RAM and 256GB of storage,",
+    "price":"100" 
+  },
+  {
+    "id": 3,
+    "name":"iPhone 14 Pro Max",
+     "image":"https://files.refurbed.com/ii/iphone-14-pro-max-1662626716.jpg",
+    "description":"Refurbed products are more sustainable and up to 40% cheaper compared to a new device.",
+    "price":"300" 
+  },
+   {
+    "id": 4,
+    "name":"Nintendo Switch",
+      "image":"https://c.media-amazon.com/images/I/71wpE+ZIehL._SX522_.jpg",
+    "description":"Nintendo Switch™ with Neon Blue and Neon Red Joy‑Con™",
+    "price":"500" 
+  },
+   {
+    "id": 5,
+    "name":"watch",
+    "image":"https://c.media-amazon.com/images/I/71oEx5aQl5L._AC_SX425_.jpg",
+   "description":"Nintendo Switch™ with Neon Blue and Neon Red Joy‑Con™",
+    "price":"600" 
+  },
+   {
+    "id": 6,
+    "name":"iwatch",
+     "image":"https://c.media-amazon.com/images/I/61gmK0qlifL.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+    "description":"Nintendo Switch™ with Neon Blue and Neon Red Joy‑Con™",
+    "price":"200" 
+  },
+   {
+    "id": 7,
+    "name":"Bracelets",
+      "image":"https://c.media-amazon.com/images/I/51kU2hDft9L._AC_SY500_.jpg",
+    "description":"Bracelets for Men-Stainless Steel Magnetic Clasp Franco Chain Mens Bracelet",
+    "price":"1000" 
+  },
+  {
+    "id": 8,
+    "name":"Three rows Magnetic",
+     "image":"https://c.media-amazon.com/images/I/71-3tY6P7ML._AC_SY500_.jpg",
+    "description":"Three rows Magnetic Bracelet for Men Black Bracelet Stainless Steel Magnet Link Mens Gift Jewelry 8.66 inches",
+    "price":"400" 
+  },
+   {
+    "id": 9,
+    "name":"Carhartt Men's",
+     "image":"https://c.media-amazon.com/images/I/51a8YLy8P6L._AC_SX679_.jpg",
+    "description":"Carhartt Men's Canvas Cap",
+    "price":"500" 
+  },
+   {
+    "id": 10,
+     "image":"https://c.media-amazon.com/images/I/61kuoM3sRaL._AC_SX695_.jpg",
+    "name":"Crocs Unisex-Adult",
+    "description":"Crocs Unisex-Adult Classic Clogs",
+    "price":"300" 
+  },
+   {
+    "id": 11,
+    "name":"CARFIA Retro",
+     "image":"https://c.media-amazon.com/images/I/51LF6PiOxxL._AC_SX679_.jpg",
+    "description":"CARFIA Retro Cool Acetate Polarized Sunglasses for Men UV Protection",
+    "price":"200" 
+  },
+   {
+    "id": 12,
+    "name":"Carbon Fiber",
+     "image":"https://c.media-amazon.com/images/I/71k22ohirqL.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+    "description":"Carbon Fiber Minimalist Wallet For Men - Smart Airtag Wallet With Money Clip ",
+    "price":"600" 
+  },
+]
