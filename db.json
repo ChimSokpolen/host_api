@@ -1,0 +1,17 @@
+[
+    {
+        "id":1,
+        "title": "Carhartt Men's",
+        "image":"https://c.media-amazon.com/images/I/51a8YLy8P6L._AC_SX679_.jpg",
+        "price":"500",
+        "rating": 4.7
+    },
+    {
+        "id":2,
+        "title": "Carhartt Men's",
+        "image":"https://images.samsung.com/in/smartphones/galaxy-z-flip4/images/galaxy-z-flip4_highlights_kv.jpg",
+        "price":"500",
+        "rating": 4.7
+    }
+
+]
