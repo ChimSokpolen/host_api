@@ -1,17 +1,88 @@
 [
     {
-        "id":1,
-        "title": "Carhartt Men's",
-        "image":"https://c.media-amazon.com/images/I/51a8YLy8P6L._AC_SX679_.jpg",
-        "price":"500",
-        "rating": 4.7
+      "id": 1,
+      "title":"Galaxy Z Flip4",
+      "image":"https://images.samsung.com/in/smartphones/galaxy-z-flip4/images/galaxy-z-flip4_highlights_kv.jpg",
+      "price":"1200",
+      "rating":4.7
+
     },
     {
-        "id":2,
-        "title": "Carhartt Men's",
-        "image":"https://images.samsung.com/in/smartphones/galaxy-z-flip4/images/galaxy-z-flip4_highlights_kv.jpg",
-        "price":"500",
-        "rating": 4.7
-    }
+      "id": 2,
+      "title":"oppo",
+      "image":"https://i.gadgets360cdn.com/large/oppo-main_1678701804365.png",
+      "price":"100",
+      "rating":4.7
+    },
+    {
+      "id": 3,
+      "title":"iPhone 14 Pro Max",
+       "image":"https://files.refurbed.com/ii/iphone-14-pro-max-1662626716.jpg",
+      "price":"300",
+      "rating":4.7 
 
-]
+    },
+     {
+      "id": 4,
+      "title":"Nintendo Switch",
+        "image":"https://c.media-amazon.com/images/I/71wpE+ZIehL._SX522_.jpg",
+      "price":"500",
+      "rating":4.7
+    },
+     {
+      "id": 5,
+      "title":"watch",
+      "image":"https://c.media-amazon.com/images/I/71oEx5aQl5L._AC_SX425_.jpg",
+      "price":"600",
+      "rating":4.7
+    },
+     {
+      "id": 6,
+      "title":"iwatch",
+       "image":"https://c.media-amazon.com/images/I/61gmK0qlifL.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+      "price":"200",
+      "rating":4.7
+    },
+     {
+      "id": 7,
+      "title":"Bracelets",
+        "image":"https://c.media-amazon.com/images/I/51kU2hDft9L._AC_SY500_.jpg",
+      "price":"1000",
+      "rating":4.7 
+    },
+    {
+      "id": 8,
+      "title":"Three rows Magnetic",
+       "image":"https://c.media-amazon.com/images/I/71-3tY6P7ML._AC_SY500_.jpg",
+      "price":"400",
+      "rating":4.7
+    },
+     {
+      "id": 9,
+      "title":"Carhartt Men's",
+       "image":"https://c.media-amazon.com/images/I/51a8YLy8P6L._AC_SX679_.jpg",
+      "price":"500",
+      "rating":4.7
+    },
+     {
+      "id": 10,
+       "image":"https://c.media-amazon.com/images/I/61kuoM3sRaL._AC_SX695_.jpg",
+      "title":"Crocs Unisex-Adult",
+      "price":"300",
+      "rating":4.7
+    },
+     {
+      "id": 11,
+      "title":"CARFIA Retro",
+       "image":"https://c.media-amazon.com/images/I/51LF6PiOxxL._AC_SX679_.jpg",
+      "price":"200",
+      "rating":4.7
+    },
+     {
+      "id": 12,
+      "title":"Carbon Fiber",
+       "image":"https://c.media-amazon.com/images/I/71k22ohirqL.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+      "price":"600",
+      "rating":4.7
+    }
+  ]
